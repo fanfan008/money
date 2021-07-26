@@ -115,7 +115,7 @@
     {
             "id": "danka",
             "name": "蛋咖",
-            "keys": ["dkahd", "dkabody","dkakkzhd","dkakkzbody","dkadthd","dkadtbody", "dkaqdbody","dkhd","dkbody", "dkahd2", "dkabody2","dkakkzhd2","dkakkzbody2","dkadthd2","dkadtbody2", "dkaqdbody2","dkhd2","dkbody3", "dkahd3", "dkabody3","dkakkzhd3","dkakkzbody3","dkadthd3","dkadtbody3", "dkaqdbody3","dkhd3","dkbody3"],
+            "keys": ["dkahd", "dkabody","dkakkzhd","dkakkzbody","dkadthd","dkadtbody", "dkaqdbody","dkhd","dkbody","dkaqdkbody","dkahd2", "dkabody2","dkakkzhd2","dkakkzbody2","dkadthd2","dkadtbody2", "dkaqdbody2","dkhd2","dkaqdkbody2","dkbody3", "dkahd3", "dkabody3","dkakkzhd3","dkakkzbody3","dkadthd3","dkadtbody3", "dkaqdbody3","dkhd3","dkbody3","dkaqdkbody"],
             "author": "@fanfan",
             "settings": [{
             "id": "dkasstatus",
