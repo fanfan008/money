@@ -116,7 +116,7 @@
             "id": "dka",
             "name": "蛋咖",
             "keys": ["dkahd", "dkabody","dkakkzhd","dkakkzbody","dkadthd","dkadtbody", "dkaqdbody","dkhd","dkbody", "dkahd2", "dkabody2","dkakkzhd2","dkakkzbody2","dkadthd2","dkadtbody2", "dkaqdbody2","dkhd2","dkbody3", "dkahd3", "dkabody3","dkakkzhd3","dkakkzbody3","dkadthd3","dkadtbody3", "dkaqdbody3","dkhd3","dkbody3"],
-            "author": "@feizao",
+            "author": "@fanfan",
             "settings": [{
             "id": "dkasstatus",
             "name": "当前账号",
@@ -131,9 +131,9 @@
             "type": "number",
             "desc": "需要几个账号，数字为几"
     }],
-            "repo": "https://github.com/age174/-/blob/main/dka.js",
+            "repo": "https://github.com/fanfan008/money/blob/main/danka.js",
             "icons": ["https://s3.ax1x.com/2021/02/28/6C3Gpn.jpg", "https://s3.ax1x.com/2021/02/28/6C3Gpn.jpg"],
-            "script": "https://raw.githubusercontent.com/age174/-/main/dka.js"
+            "script": "https://raw.githubusercontent.com/fanfan008/money/main/dka.js"
     } ,
     {
       "id": "WeChatLottery_new",
