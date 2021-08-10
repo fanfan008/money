@@ -104,6 +104,29 @@
         "https://raw.githubusercontent.com/Orz-3/mini/master/Color/10086.png"
       ]
     },
+           {
+            "id": "kzk",
+            "name": "快赚客",
+            "keys": ["soy_kzk_body", "soy_kzk_body2","soy_kzk_body3","soy_kzk_body4"],
+            "author": "@fanfan",
+            "settings": [{
+            "id": "kzkstatus",
+            "name": "当前账号",
+            "val": "1",
+            "type": "number",
+            "desc": "当前账号对应"
+    },
+    {
+            "id": "kzkcount",
+            "name": "账号个数",
+            "val": "1",
+            "type": "number",
+            "desc": "需要几个账号，数字为几"
+    }],
+            "repo": "https://github.com/fanfan008/money/blob/main/kzk.js",
+            "icons": ["https://s3.ax1x.com/2021/02/28/6C3Gpn.jpg", "https://s3.ax1x.com/2021/02/28/6C3Gpn.jpg"],
+            "script": "https://raw.githubusercontent.com/fanfan008/money/main/kzk.js"
+    } ,
       {
       "id": "xbzs",
       "name": "小宝种树",
