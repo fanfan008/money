@@ -32,14 +32,14 @@
             "keys": ["soy_ydttz_cookie", "soy_ydttz_cookie2","soy_ydttz_cookie3", "soy_ydttz_cookie4"],
             "author": "@fanfan",
             "settings": [{
-            "id": "ydttzstatus",
+            "id": "appstatus",
             "name": "当前账号",
             "val": "1",
             "type": "number",
             "desc": "当前账号对应"
     },
     {
-            "id": "ydttzcount",
+            "id": "appcount",
             "name": "账号个数",
             "val": "1",
             "type": "number",
