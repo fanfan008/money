@@ -253,7 +253,7 @@
 		],
 		"author": "@zw119",
 		"settings": [{
-			"id": "sqxs",
+			"id": "sqxsstatus",
 			"name": "当前账号",
 			"val": "1",
 			"type": "number",
