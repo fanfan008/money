@@ -44,8 +44,8 @@ $.message = ''
                 tfbhd = userArr[i]['tfbhd'];
                 console.log(`\n【 推粉宝 账号${i+1} 】，等待时长${DD}\n`);
                 $.message += `\n【 推粉宝 账号${i+1} 】\n`;
-				await signInfo();
-                await $.wait(2000);
+		//await signInfo();
+                //await $.wait(2000);
                 await readInfo();
                 readFlag=true
                 while(readFlag){
