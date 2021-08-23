@@ -65,6 +65,20 @@ let articles = [
 "https://focus.youth.cn/article/s?signature=KYJBMEDexQprwO0aJB6XDOFnjv3qclQwrPJaj5zbg8RLkP9oXd&uid=57196254&phone_code=8ab98a23e095c113ac962a446dd391d7&scid=38870793&time=1623309981&app_version=2.0.2&sign=3607174d59d7de45e8988ccc95081064",
 "https://focus.youth.cn/article/s?signature=ZLAxJmwrdW82D634Z3ozqGTK6RPQfvBRWYq7N9B05XEbOlQGnj&uid=57196254&phone_code=8ab98a23e095c113ac962a446dd391d7&scid=38872370&time=1623310012&app_version=2.0.2&sign=feac389abc2d161cd13fbd1ad156cd9d",
 "https://focus.youth.cn/article/s?signature=nME6PzmgxDLdbpG4wz56q3FXQOY9UR2LXVQ1rjJNqwAQ0OoW9B&uid=57196254&phone_code=8ab98a23e095c113ac962a446dd391d7&scid=38848435&time=1623310047&app_version=2.0.2&sign=c0b4d85ca608a2866b2d9b46e67e09eb",
+"https://focu.youth.cn/newsixhot/20210817?sid=39749748&uid=58421476&timestamp=1629463493&signature=8W62Rvorl9xBbN3dqEax6OXApSo6qRq4pjVLXQDk0GeygYZOJ5&scene_id=fire_share&share_id=58421476397497481629463522&time=1629463522",
+"https://focu.youth.cn/newsixhot/20210820?sid=39793968&uid=58421476&timestamp=1629465912&signature=zLbNjJ5wr0YegkWEG37orXnYghg2dYd4DP6vqOn8lB2py9XRQx&scene_id=fire_share&share_id=58421476397939681629465924&time=1629465924",
+"https://focu.youth.cn/newsixhot/20210820?sid=39797124&uid=58421476&timestamp=1629465912&signature=zLbNjJ5wr0YegkWEG37orXbgOSg2dYd4DP6vqOn8lB2py9XRQx&scene_id=fire_share&share_id=58421476397971241629465962&time=1629465962",
+"https://focu.youth.cn/newsixhot/20210818?sid=39766429&uid=58421476&timestamp=1629465912&signature=Qg9jzmlY6xZnPq3DGO1dEzOqdhGVEdE4XrLEVMWpRd8Neb0JkA&scene_id=fire_share&share_id=58421476397664291629465987&time=1629465987",
+"https://focu.youth.cn/newsixhot/20210817?sid=39747674&uid=58421476&timestamp=1629465912&signature=glp5xY6RDENobMmkVO752XXg2SXLWkWa8GPZQwnj20JBreK3Ay&scene_id=fire_share&share_id=58421476397476741629466008&time=1629466008",
+"https://focu.youth.cn/newsixhot/20210819?sid=39775495&uid=58421476&timestamp=1629465912&signature=nG63ezAQDowMB0vlYg4k03qb2cpPyny7L8KN5yR9XpjPOxrbdE&scene_id=fire_share&share_id=58421476397754951629466060&time=1629466060",
+"https://focu.youth.cn/newsixhot/20210819?sid=39784203&uid=58421476&timestamp=1629465912&signature=kzYx0ngZLqblOM65PN7LKW2NJTjZLpL4E3GQoepJDX9dv8AB2W&scene_id=fire_share&share_id=58421476397842031629466082&time=1629466082",
+"https://focu.youth.cn/newsixhot/20210819?sid=39777990&uid=58421476&timestamp=1629465912&signature=l3Q0RNe9oPxVZ6pJMA7EnPv8nSWyDbDaL2XGkOKdvDynjYb5Wz&scene_id=fire_share&share_id=58421476397779901629466102&time=1629466102",
+"https://focu.youth.cn/newsixhot/20210819?sid=39777715&uid=58421476&timestamp=1629465912&signature=qEkWRmZyvzPO2bBdGX788pAJouVblWl7l36xneA0QpKgM9NYL8&scene_id=fire_share&share_id=58421476397777151629466125&time=1629466125",
+"https://focu.youth.cn/newsixhot/20210819?sid=39775518&uid=58421476&timestamp=1629465912&signature=5yNLlPgo6r98RX0bMW7YYLjwVF2xnWn7KEVpwGOxvAqDZzBJdm&scene_id=fire_share&share_id=58421476397755181629466154&time=1629466154",
+"https://focu.youth.cn/newsixhot/20210819?sid=39774188&uid=58421476&timestamp=1629465912&signature=bNLQGOPvkzKWxBE3gD1M0Q2x3IMkLjLayM2eV8nrowqJXmZjY5&scene_id=fire_share&share_id=58421476397741881629466178&time=1629466178",
+"https://focu.youth.cn/newsixhot/20210818?sid=39759944&uid=58421476&timestamp=1629465912&signature=bNLQGOPvkzKWxBE3gD1M0Qp9OfMkLjLayM2eV8nrowqJXmZjY5&scene_id=fire_share&share_id=58421476397599441629466202&time=1629466202",
+"https://focu.youth.cn/newsixhot/20210818?sid=39759714&uid=58421476&timestamp=1629465912&signature=PDAM2LbdQB6J8ljGNZazZ2qYzH2edwdaKX0mkV39oyW5xrzpYe&scene_id=fire_share&share_id=58421476397597141629466234&time=1629466234",
+"https://focu.youth.cn/newsixhot/20210817?sid=39748528&uid=58421476&timestamp=1629465912&signature=bDm0KxOyWQGgYNjrBV4jAyNEViyxgDg1oLpzq253Av968kJPEM&scene_id=fire_share&share_id=58421476397485281629466256&time=1629466256",	
 ];
 let articles1 = [
 ];
