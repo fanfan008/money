@@ -274,7 +274,7 @@
 	},{
             "id": "ydttz",
             "name": "云顶天天赚",
-            "keys": ["soy_ydttz_cookie", "soy_ydttz_cookie2","soy_ydttz_cookie3", "soy_ydttz_cookie4"],
+            "keys": ["soy_ydttz_cookie", "soy_ydttz_cookie2","soy_ydttz_cookie3", "soy_ydttz_cookie4", "soy_ydttz_cookie5","soy_ydttz_cookie6", "soy_ydttz_cookie7"],
             "author": "@fanfan",
             "settings": [{
             "id": "appstatus",
@@ -320,7 +320,7 @@
     {
             "id": "qqyd",
             "name": "qq阅读",
-            "keys": ["ywguid", "ywkey","qrsn","ywguid2", "ywkey2","qrsn2","ywguid3", "ywkey3","qrsn3","ywguid4", "ywkey4","qrsn4","ywguid5", "ywkey5","qrsn5"],
+            "keys": ["ywguid", "ywkey","qrsn","ywguid2", "ywkey2","qrsn2","ywguid3", "ywkey3","qrsn3","ywguid4", "ywkey4","qrsn4","ywguid5", "ywkey5","qrsn5","ywguid6", "ywkey6","qrsn6","ywguid7", "ywkey7","qrsn7","ywguid8", "ywkey8","qrsn8"],
             "author": "@fanfan",
             "settings": [{
             "id": "qqydstatus",
@@ -355,7 +355,7 @@
            {
             "id": "dybox",
             "name": "抖音宝箱",
-            "keys": ["boxurl", "boxheader","boxurl2", "boxheader2","boxurl3", "boxheader3","boxurl4", "boxheader4"],
+            "keys": ["boxurl", "boxheader","boxurl2", "boxheader2","boxurl3", "boxheader3","boxurl4", "boxheader4","boxurl5", "boxheader5","boxurl6", "boxheader6","boxurl7", "boxheader7"],
             "author": "@fanfan",
             "settings": [{
             "id": "boxstatus",
@@ -397,7 +397,7 @@
            {
             "id": "kzk",
             "name": "快赚客",
-            "keys": ["soy_kzk_body", "soy_kzk_body2","soy_kzk_body3","soy_kzk_body4"],
+            "keys": ["soy_kzk_body", "soy_kzk_body2","soy_kzk_body3","soy_kzk_body4", "soy_kzk_body5","soy_kzk_body6","soy_kzk_body7", "soy_kzk_body8","soy_kzk_body9","soy_kzk_body10"],
             "author": "@fanfan",
             "settings": [{
             "id": "kzkstatus",
