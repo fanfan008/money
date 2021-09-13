@@ -397,7 +397,7 @@
            {
             "id": "kzk",
             "name": "快赚客",
-            "keys": ["soy_kzk_body", "soy_kzk_body2","soy_kzk_body3","soy_kzk_body4", "soy_kzk_body5","soy_kzk_body6","soy_kzk_body7", "soy_kzk_body8","soy_kzk_body9","soy_kzk_body10"],
+            "keys": ["soy_kzk_body", "soy_kzk_txbody", "soy_kzk_body2", "soy_kzk_txbody2","soy_kzk_body3","soy_kzk_txbody3","soy_kzk_body4","soy_kzk_txbody4", "soy_kzk_body5", "soy_kzk_txbody5","soy_kzk_body6","soy_kzk_txbody6","soy_kzk_body7","soy_kzk_txbody7", "soy_kzk_body8", "soy_kzk_txbody8","soy_kzk_body9","soy_kzk_txbody9","soy_kzk_body10"],
             "author": "@fanfan",
             "settings": [{
             "id": "kzkstatus",
