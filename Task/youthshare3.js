@@ -5,6 +5,8 @@ let nowTime;
 let wxck;
 let articles = [
 "https://focu.youth.cn/waphotfour/20211126?sid=40979419&uid=58818064&timestamp=1638407026&signature=zLbNjJ5wr0YegkWEG37orPl5WigrKxL4DP6vqOn8lB2py9XRQx&scene_id=fire_share&share_id=58818064409794191638407033659&time=1638407036316",
+"https://focu.youth.cn/waphotfour/20211128?sid=41010884&uid=58818064&timestamp=1638412787&signature=B3MvlKp05kgOXPA9oG7nDO36eIbQPMY1erYEjxzQLWmw8DnyJb&scene_id=fire_share&share_id=58818064410108841638412791196&time=1638412793144",
+"https://focus.youth.cn/article/ws_four?signature=85edrWAo2wXgEPm3Qv7O8jAjmuzq8PXalN06jZVDYx9qpkBKMb&scene_id=home_feed&share_id=58818064403438471638412822955&time=1638412824928",
 ];
 let articles1 = [
 ];
